@@ -1,0 +1,12 @@
+/Users/zhongzhengxiang/Projects/MyRsume/MyRsume/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/zhongzhengxiang/Projects/MyRsume/MyRsume/bin/Debug/netcoreapp2.0/MyRsume.deps.json
+/Users/zhongzhengxiang/Projects/MyRsume/MyRsume/bin/Debug/netcoreapp2.0/MyRsume.runtimeconfig.json
+/Users/zhongzhengxiang/Projects/MyRsume/MyRsume/bin/Debug/netcoreapp2.0/MyRsume.runtimeconfig.dev.json
+/Users/zhongzhengxiang/Projects/MyRsume/MyRsume/bin/Debug/netcoreapp2.0/MyRsume.dll
+/Users/zhongzhengxiang/Projects/MyRsume/MyRsume/bin/Debug/netcoreapp2.0/MyRsume.pdb
+/Users/zhongzhengxiang/Projects/MyRsume/MyRsume/obj/Debug/netcoreapp2.0/MyRsume.csprojResolveAssemblyReference.cache
+/Users/zhongzhengxiang/Projects/MyRsume/MyRsume/obj/Debug/netcoreapp2.0/MyRsume.csproj.CoreCompileInputs.cache
+/Users/zhongzhengxiang/Projects/MyRsume/MyRsume/obj/Debug/netcoreapp2.0/MyRsume.AssemblyInfoInputs.cache
+/Users/zhongzhengxiang/Projects/MyRsume/MyRsume/obj/Debug/netcoreapp2.0/MyRsume.AssemblyInfo.cs
+/Users/zhongzhengxiang/Projects/MyRsume/MyRsume/obj/Debug/netcoreapp2.0/MyRsume.dll
+/Users/zhongzhengxiang/Projects/MyRsume/MyRsume/obj/Debug/netcoreapp2.0/MyRsume.pdb
