@@ -8,7 +8,7 @@ The MyRsume file is the source code.
 
 Test case Report
 This picture is my test case report of homework2.
-![image](github.com/zzxiang8752/resume/edit/master/)
+![image](https://github.com/zzxiang8752/resume/raw/master/Screen Shot 2017-12-07 at 6.59.00 PM.png)
 
 Automate Testing
 In this testing part, I use  Yanxing Zhang's Website to check:
